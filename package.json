@@ -1,0 +1,23 @@
+{
+  "name": "vue-project",
+  "version": "1.0.0",
+  "description": "A basic Vue.js project using version 2.6.12",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "2.6.12",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.15",
+    "@vue/cli-plugin-babel": "^4.5.15",
+    "babel-eslint": "^10.1.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
